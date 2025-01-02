@@ -1,0 +1,4 @@
+colorama 
+pyfiglet 
+tabulate
+mysql-connector-python 
